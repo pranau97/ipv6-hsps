@@ -1,7 +1,21 @@
 {
     "cSpell.words": [
+        "arin",
+        "histtype",
+        "HSP's",
         "hsps",
         "pytricia",
-        "tqdm"
-    ]
+        "tqdm",
+        "whois",
+        "xticks"
+    ],
+    // "runOnSave.commands": [
+    //     {
+    //         "match": ".*\\.ipynb$",
+    //         "cmd": "black ${file}",
+    //         "runIn": "terminal",
+    //         "runningStatusMessage": "Formatting ${fileBasename}",
+    //         "finishStatusMessage": "${fileBasename} formatted"
+    //     }
+    // ]
 }
