@@ -4,8 +4,13 @@
         "histtype",
         "HSP's",
         "hsps",
+        "pdflatex",
+        "pybgpstream",
         "pytricia",
+        "texsystem",
+        "tikzplotlib",
         "tqdm",
+        "usetex",
         "whois",
         "xticks"
     ],
